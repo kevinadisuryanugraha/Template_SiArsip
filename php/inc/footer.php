@@ -1,7 +1,7 @@
 <footer class="py-4 bg-light mt-auto">
     <div class="container-fluid">
         <div class="d-flex align-items-center justify-content-between small">
-            <div class="text-muted">Copyright &copy; Your Website 2021</div>
+            <div class="text-muted">Copyright &copy; SI Arsip 2024</div>
             <div>
                 <a href="#">Privacy Policy</a>
                 &middot;
@@ -12,7 +12,7 @@
 </footer>
 </div>
 </div>
-<script src="./js/scripts.js"></script>
+<script src="<?php echo BASE_URL; ?>/js/scripts.js"></script>
 </body>
 
 </html>
